@@ -18,7 +18,7 @@ public class CommitCafe {
         cups++;
         System.out.println(barista + " (" + nickname + ") brewed a " + drink + "!");
         
-        cups++;
+        // cups++;
         System.out.println("CoffeeBot brewed " + drink + ". Version control your caffeine intake.");
         System.out.println("[BOT CHECK] drink length = " + drink.length());
     }
